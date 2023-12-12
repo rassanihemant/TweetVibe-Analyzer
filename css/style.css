@@ -1,0 +1,293 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+}
+.navbar { 
+    border-radius: 2%;
+    font-family:Verdana !important;
+    font-size: larger;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-weight: bolder;
+    margin-top: 1%;
+    font-size: larger;
+}
+#toggle_button{
+    background-color: rgb(255, 217, 0);
+}
+#navlogo{
+    margin-top: 1.5%;
+    margin-right: 0.5%;
+    margin-left: 1%;
+    margin-bottom: 0.5%;
+    width: 100px;
+}
+.nav-item{
+    margin-top: 1.5%;
+    font-weight: 600;
+    color: black;
+}
+#logo{
+    margin-top: 12%;
+    margin-left: 10%;
+    height: 70%;
+    width: 20%;
+}
+#ai{
+    padding-right: 5em;
+    margin-left: -100px;
+    margin-top: 11%;
+    margin-right: 10;
+    height: 70%;
+    width: 25%;
+}
+#introtext{
+    padding-top: 2.4em;
+    margin-top: 20%;
+    margin-left: 3%;
+    color: #fff;
+    font-weight: 500;
+    width: 70%;
+}
+
+h3{
+    color: white;
+}
+#headingsec2
+{
+    margin-left: 3%;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.middle{
+    margin-top: 10%;
+    margin-left: 40%;
+}
+#sec2{
+    height: 100px;
+    border-radius: 10% 10% 0 0%;
+    font-family:Verdana !important;
+    margin-bottom: 10%;
+}
+#parent{
+    background-color: #ffc307;
+    border-radius: 7% 7% 0 0%;
+    padding-bottom: 5%;
+}
+#sec2{
+    height: 100px;
+    font-family:Verdana !important;
+    margin-bottom: 5%;
+}
+#marg{
+    margin-left: 40%;
+}
+#button1
+{
+    margin-top: 2%;
+    height: 90%;
+    width: 110px;
+    color: #ffc304;
+    background-color: black;
+
+}
+#button2
+{
+    margin-top: 2%;
+    margin-left: 14%;
+    height: 90%;
+    width: 110px;
+    color: #ffc304;
+    background-color: black;
+}
+#card_view1
+{
+    height: 50%;
+    margin-left: 3%;
+}
+.dev_image{
+    margin-top: 5%;
+    border-radius: 50%;
+    width: 40%;
+}
+.conatact_h4{
+    margin-top: 3%;
+    color: black;
+    font-weight: bolder;
+}
+.conatact_h6{
+    font-size: small;
+    color: rgb(77, 77, 77);
+}
+.about_para
+{
+    text-align: justify;
+    margin: 1% 5% 1% 5%;
+    font-weight: bolder;
+    color: black;
+}
+.contact_para{
+    font-weight: 550;
+    font-family:Verdana !important;
+    color: black;
+}
+.conatact_h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#contact_Card
+{
+    background-color: black;
+}
+
+.contact_icons1
+{
+
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 50%;
+    height: 58px;
+    width: 25%;
+}
+.contact_icons2
+{
+    margin-right: 5%;
+    border-radius: 80%;
+    height: 55px;
+    width: 23%;
+}
+
+#about{
+    width: 100%;
+}
+.division
+{
+    margin-top: 10%;
+    margin-bottom: 3%;
+    width: 100%;
+    border-radius: 10% 10% 0 0%;
+    background: #ffc307;
+}
+#sec4
+{
+    border-radius: 7% 7% 0 0%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+/* START OF SECTION 5 CSS */
+#sec5
+{
+    border-radius: 10% 10% 0 0%;
+}
+#headingsec5
+{
+    margin-left: 43%;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+}
+.bg_button
+{
+    background-color: #000;
+}
+#contact_section
+{
+    color: #000;
+}
+#txt
+{
+    margin-top: 5%;
+    font-weight: bold;
+    color: #000;
+}
+#margins
+{
+    margin-top: 5%;
+    font-weight: bold;
+    color: #000;
+}
+#location{
+    margin-left: 30%;
+}
+/* END OF SECTION 5 CSS */
+
+/* Start of SignIn and Sign UP CSS */
+#card_margins
+{
+    border-radius: 6%;
+    height: 500px;
+    width: 50%;
+    margin: 10% 10% 10% 27%;
+}
+#card_margins1
+{
+    border-radius: 6%;
+    height: 100%;
+    width: 65%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 20%;
+    margin-right: 15%;
+}
+#signInFrom{
+    margin-top: 15%;
+}
+#name
+{
+    border-color: #000;
+    border-radius: 6%;;
+    margin-left: 10%;
+}
+#email{
+    border-color: #000;
+    border-radius: 6%;;
+    margin-left: 10%;
+}
+#password{
+    border-color: #000;
+    border-radius: 6%;;
+    margin-left: 5%;
+}
+#confirmPass{
+    border-color: #000;
+    border-radius: 6%;;
+    margin-left: 2%;
+}
+#submit
+
+    {height: 90%;
+    width: 110px;
+    color: #ffc304;
+    background-color: black;
+}
+.btn_menu{
+    color: #ffc307;
+    margin: 5% 10% 0% 5%;
+    width: 40%;
+    background-color: #000;
+}
+#menu_button_div{
+    margin-left: 25%;
+    padding-left: 10%;
+}
+#img_section{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#img_section_heading{
+    margin-left: 3%;
+    font-size: xx-large;
+    font-weight: 600;
+}
+#img_section_para{
+    margin: auto;
+    padding-top: 3em;
+    font-size: 1em;
+    width: 80%;
+    text-align: center;
+
+}
+/* End of SignIn and Sign UP CSS */
